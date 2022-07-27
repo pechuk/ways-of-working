@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ways-of-working
+  annotations:
+    github.com/project-slug: pechuk/ways-of-working
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
